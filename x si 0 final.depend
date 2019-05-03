@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542737887 source:e:\robinson\oji\projects\anul1\x si 0 final\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
